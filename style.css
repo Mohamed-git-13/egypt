@@ -1,0 +1,39 @@
+body{
+	background-color: peachpuff;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+	color:grey;
+	font-family: 'Times New Roman', Times, serif;
+}
+h2{
+	font-family: 'Times New Roman', Times, serif;
+}
+a{
+	color:slateblue;
+}
+nav ul{
+	background-color:sandybrown;
+	border-width:2px;
+	border-style:solid;
+	border-color:seashell;
+	padding:10px;
+}
+nav ul li{
+    display:inline;
+	list-style-type: none;
+	margin-right:10px;
+	margin-left:10px;
+	color:papayawhip;
+}
+nav ul li a{
+	color:olive;
+	text-decoration: none;
+}
+img{
+	border-radius:30px;
+}
+div{
+	position:relative;
+	padding-bottom:40%;
+}
